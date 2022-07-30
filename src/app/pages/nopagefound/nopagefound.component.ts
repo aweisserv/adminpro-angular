@@ -2,8 +2,8 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-nopageound',
-  templateUrl: './nopageound.component.html',
-  styleUrls: ['./nopageound.component.css']
+  templateUrl: './nopagefound.component.html',
+  styleUrls: ['./nopagefound.component.css']
 })
 export class NopageoundComponent implements OnInit {
 
