@@ -4,7 +4,7 @@ import { LoginComponent } from './auth/login/login.component';
 import { RegisterComponent } from './auth/register/register.component';
 import { DashboardComponent } from './pages/dashboard/dashboard.component';
 import { Grafica1sComponent } from './pages/grafica1/grafica1.component';
-import { NopageoundComponent } from './pages/nopagefound/nopagefound.component';
+import { NopageoundComponent } from './nopagefound/nopagefound.component';
 import { PagesComponent } from './pages/pages.component';
 import { ProgressComponent } from './pages/progress/progress.component';
 
